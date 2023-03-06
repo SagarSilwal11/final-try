@@ -1,1 +1,5 @@
-sagar is my name and what about you .lol is loly 
+<<<<<<< HEAD
+sagar is my name and what about you .lol is  
+=======
+sagar is my name and what about you .lol is  
+>>>>>>> 47d5c7d98d83208cd818305eba2dbd10b7112459
